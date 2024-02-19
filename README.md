@@ -140,7 +140,7 @@ Project Link: [https://github.com/TheDevRatt/Chronothea](https://github.com/TheD
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Trent University](https://www.trentu.ca/)
+* [Trent University](https://www.trentu.ca/) - For providing the server space to host my project in the Summer of 2023.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
