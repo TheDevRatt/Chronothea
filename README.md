@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TheDevRatt/Chronothea">
-    <img src="chronothea.png" alt="Logo" width="500" height="500">
+    <img src="chronothea.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Chronothea</h3>
